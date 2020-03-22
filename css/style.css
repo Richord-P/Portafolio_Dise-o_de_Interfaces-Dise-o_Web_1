@@ -1,4 +1,9 @@
 @charset "utf-8";
+@font-face{
+	font-family: "Megaten 20XX";
+	src:url("../fonts/Megaten 20XX.ttf");
+	src: url("../fonts/Megaten 20XX.otf");
+}
 /* CSS Document */
 /*Backgrounds*/
 .tittle-screen{
@@ -50,7 +55,7 @@
 	background-position: center center;
 }
 #area1{
-	padding-top:200px;
+	padding-top:120px;
 	
 }
 #area1 p{
@@ -61,14 +66,21 @@
 	padding-right: 50px;
 }	
 #area2 h3{
+
 	font-family: "Megaten 20XX";
 	font-size: 20px;
 	text-transform: capitalize;
 }
 
 
+.controlsvideos{
+	padding: 210px 50px 0px 50px; 
+}
 .controls{
-	padding: 280px 50px 0px 50px; 
+	padding: 250px 50px 0px 50px; 
+}
+.controlshub{
+	padding: 290px 50px 0px 50px; 
 }
 .controls2{
 	padding: 280px 50px 0px 50px; 
@@ -157,4 +169,7 @@ padding-left: 400px;
 .redes i:hover{
 	color:rgba(76,85,190,0.90);
 	transition: all 0.3s ease-in-out;
+}
+h3{
+	font-family: "Megaten 20XX";
 }
