@@ -5,21 +5,25 @@
 	background-image:url("../img/tittle_screen.png");
 	background-repeat: no-repeat;
 	background-size: cover;
+	background-position: center;
 }
 .hub1{
 	background-image: url("../img/hub_room_1.png");
 	background-repeat: no-repeat;
 	background-size: cover;
+	background-position: center;
 }
 .hub2{
 	background-image: url("../img/hub_room_2.png");
 	background-repeat: no-repeat;
 	background-size: cover;
+	background-position: center;
 }
 .skills{
 	background-image: url( "../img/skills_chest.png");
 	background-repeat: no-repeat;
 	background-size: cover;
+	background-position: center;
 }
 .about{
 	background-image: url( "../img/about_bookcases.png");
@@ -30,16 +34,19 @@
 	background-image: url( "../img/animation_slideshow.png");
 	background-repeat: no-repeat;
 	background-size: cover;
+	background-position: center;
 }
 .arte{
 	background-image: url( "../img/arte_galeria.png");
 	background-repeat: no-repeat;
 	background-size: cover;
+	background-position: center;
 }
 .fin{
 	background-image: url( "../img/ending_avatar.png");
 	background-repeat: no-repeat;
 	background-size: cover;
+	background-position: center;
 }
 #area1{
 	padding-top:200px;
